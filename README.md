@@ -1,5 +1,5 @@
 # IBMIML
-## IBM Introduction to Machine Learning Specialization
+## IBM Introduction to Machine Learning Specialization (4 course series)
 
 Machine learning skills are becoming more and more essential in the modern job market. In 2019, Machine Learning Engineer was ranked as the #1 job in the United States, based on the incredible 344% growth of job openings in the field between 2015 to 2018, and the role’s average base salary of $146,085 (Indeed
 ). 
